@@ -1,0 +1,41 @@
+table{ width: 100%;
+    height: 98vh;}
+
+    *{margin: 0}
+ 
+    td {
+        
+       width: 10%;
+        }
+
+        #login{
+            width: 70px;}
+        #tr1{height:  50px;}
+        #tr2{height:  50px;}
+        #tr3{height:  50px;}
+        #tr4{height:  50px;}
+        #tr5{height:  50px;}
+        #tr6{height: 100%;}
+        #tr7{height: 50px;}
+        .atm{text-align: right;}
+        .btm{text-align: left;}
+        .centro{text-align: center;}
+        .centroesquerda{text-align: center;
+        }
+        .maior{font-size: 30px;
+            float: left
+             }
+             .cinzadireitos{background-color: #6F7E8B;
+                height: 60px;}
+                p2 {font-size: 20px;
+                    float: right}
+
+        .azulfundo{background-color: blue;}
+        
+        
+        
+        h1 {font-size: 25px;}
+        h2 {font-size: 55px;}
+
+        .arre{border-radius: 50px;}
+        

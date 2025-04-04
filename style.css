@@ -1,0 +1,49 @@
+
+table{ width: 100%;
+    height: 98vh;}
+
+    *{margin: 0}
+ 
+    td {
+        
+       
+       width: 10%;
+        }
+        #login{
+            width: 70px;}
+        #tr1{height:  50px;}
+        #tr2{height:  50px;}
+        #tr3{height:  50px;}
+        #tr4{height:  50px;}
+        #tr5{height:  50px;}
+        #tr6{height: 100%;}
+        #tr7{height: 50px;}
+        .atm{text-align: right;}
+        .btm{text-align: left;}
+        .centro{text-align: center;}
+        .cinza{background-color: rgb(217, 217, 217);}
+        .cinzadireitos{background-color: #6F7E8B;
+        height: 60px;}
+        .maior{font-size: 30px;
+            float: left
+             }
+         
+        
+        h1 {font-size: 40px;}
+        p {font-size: 35px;}
+        p2 {font-size: 20px;
+            float: right}
+
+        input[type="text"] {
+            height: 80%;
+            width: 90%;
+         
+            border: 2px solid #000000;
+            background-color: rgb(217, 217, 217);
+            color: black;
+            font-size: 40px;
+            font-weight: arial;
+        }
+
+  
+      
