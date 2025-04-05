@@ -32,7 +32,9 @@ table{ width: 100%;
 
         .azulfundo{background-color: blue;}
         
-        
+        .ultimo{font-size: 70px;
+        height: 100px;
+        width: 100px;}
         
         h1 {font-size: 25px;}
         h2 {font-size: 55px;}
