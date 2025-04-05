@@ -22,7 +22,8 @@ table{ width: 100%;
             height:  50px;}
         .atm{text-align: right;}
         .btm{text-align: left;}
-        .centro{text-align: center;}
+        .centro{text-align: center;
+         color: white;}
         .azulfundo{background-color: blue;}
         .cinzadireitos{background-color: #6F7E8B;
             height: 60px;}
