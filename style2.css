@@ -19,7 +19,8 @@ table{ width: 100%;
         #tr7{height: 50px;}
         .atm{text-align: right;}
         .btm{text-align: left;}
-        .centro{text-align: center;}
+        .centro{text-align: center;
+         color: white;}
         .centroesquerda{text-align: center;
         }
         .maior{font-size: 30px;
